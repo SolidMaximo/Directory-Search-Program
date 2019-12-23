@@ -3,4 +3,6 @@ is a Windows Form application created using c# and .NET framework. The program s
 path including sub-folders based on a given file extension such as *.ls or *.png. 
 
 The application is fully functional; however, it is limited in functality. It's a basic search find program. It can be easily
-modified to open or save files, etc...
+modified to open or save files, etc....
+
+Once the solution is built in Visual Studio, the executable will be located at *DirectoryStructure\bin\Debug\DirectoryStructure.exe*
